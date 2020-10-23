@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MisContactosCoursera</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="tvTitulo">Confirmar Datos</string>
+    <string name="tvFechaNac">Fecha Nacimiento:</string>
+    <string name="tvTel">Tel:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvDesc">Descripcion:</string>
+    <string name="btnEditarDatos">Editar Datos</string>
+    <string name="tvPruebaName">chema alonso</string>
+    <string name="tvPruebaFechaNac">30/07/1994</string>
+    <string name="tvPruebaDesc">vocal de area</string>
+    <string name="pnombre">su nombre</string>
+    <string name="ptelefono">38888888</string>
+    <string name="pemail">manu@hotmail.com</string>
+
+
+</resources>
